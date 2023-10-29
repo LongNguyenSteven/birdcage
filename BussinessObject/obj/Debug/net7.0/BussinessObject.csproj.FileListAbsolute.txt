@@ -12,3 +12,17 @@ C:\Users\Son\Desktop\C#\BirdCageManagement\BussinessObject\obj\Debug\net7.0\refi
 C:\Users\Son\Desktop\C#\BirdCageManagement\BussinessObject\obj\Debug\net7.0\BussinessObject.pdb
 C:\Users\Son\Desktop\C#\BirdCageManagement\BussinessObject\obj\Debug\net7.0\BussinessObject.genruntimeconfig.cache
 C:\Users\Son\Desktop\C#\BirdCageManagement\BussinessObject\obj\Debug\net7.0\ref\BussinessObject.dll
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\bin\Debug\net7.0\BussinessObject.deps.json
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\bin\Debug\net7.0\BussinessObject.runtimeconfig.json
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\bin\Debug\net7.0\BussinessObject.dll
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\bin\Debug\net7.0\BussinessObject.pdb
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\obj\Debug\net7.0\BussinessObject.csproj.AssemblyReference.cache
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\obj\Debug\net7.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\obj\Debug\net7.0\BussinessObject.AssemblyInfoInputs.cache
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\obj\Debug\net7.0\BussinessObject.AssemblyInfo.cs
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\obj\Debug\net7.0\BussinessObject.csproj.CoreCompileInputs.cache
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\obj\Debug\net7.0\BussinessObject.dll
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\obj\Debug\net7.0\refint\BussinessObject.dll
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\obj\Debug\net7.0\BussinessObject.pdb
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\obj\Debug\net7.0\BussinessObject.genruntimeconfig.cache
+D:\Documents\VisualCode\PRN211\birdcage-main\birdcage\BussinessObject\obj\Debug\net7.0\ref\BussinessObject.dll

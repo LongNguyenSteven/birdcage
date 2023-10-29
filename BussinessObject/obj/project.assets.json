@@ -3173,19 +3173,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Son\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL 5578\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Son\\Desktop\\C#\\BirdCageManagement\\BussinessObject\\BussinessObject.csproj",
+      "projectUniqueName": "D:\\Documents\\VisualCode\\PRN211\\birdcage-main\\birdcage\\BussinessObject\\BussinessObject.csproj",
       "projectName": "BussinessObject",
-      "projectPath": "C:\\Users\\Son\\Desktop\\C#\\BirdCageManagement\\BussinessObject\\BussinessObject.csproj",
-      "packagesPath": "C:\\Users\\Son\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Son\\Desktop\\C#\\BirdCageManagement\\BussinessObject\\obj\\",
+      "projectPath": "D:\\Documents\\VisualCode\\PRN211\\birdcage-main\\birdcage\\BussinessObject\\BussinessObject.csproj",
+      "packagesPath": "C:\\Users\\DELL 5578\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\VisualCode\\PRN211\\birdcage-main\\birdcage\\BussinessObject\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Son\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL 5578\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3252,7 +3257,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
